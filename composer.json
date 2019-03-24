@@ -18,8 +18,7 @@
   ],
   "homepage": "https://github.com/Micovi/laravel-sendy",
   "require": {
-    "php": ">=7.0",
-    "illuminate/support": "^5.7.0"
+    "php": ">=7.0"
   },
   "require-dev": {
     "orchestra/testbench": "~3.7.0",
