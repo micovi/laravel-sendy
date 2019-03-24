@@ -1,6 +1,6 @@
 {
   "name": "micovi/laravel-sendy",
-  "description": "A laravel sendy",
+  "description": "Service provider for Sendy API in PHP Laravel 5+",
   "license": "MIT",
   "keywords": [
     "laravel",
@@ -9,13 +9,16 @@
   "type": "library",
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "Ovidiu Miclea",
+      "email": "micleaovidiul@gmail.com",
+      "homepage": "https://ovidiumiclea.com",
+      "role": "Developer"
     }
   ],
+  "homepage": "https://github.com/Micovi/laravel-sendy",
   "require": {
     "php": ">=7.0",
-    "illuminate/support": "~5.7.0"
+    "illuminate/support": "^5.7.0"
   },
   "require-dev": {
     "orchestra/testbench": "~3.7.0",
