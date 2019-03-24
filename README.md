@@ -1,9 +1,6 @@
 # Laravel Sendy
 
-[![Build Status](https://travis-ci.org/micovi/laravel-sendy.svg?branch=master)](https://travis-ci.org/micovi/laravel-sendy)
-[![Github](	https://img.shields.io/github/release/micovi/laravel-sendy.svg)](https://github.com/micovi/laravel-sendy/)
 [![Github](	https://img.shields.io/github/release-pre/micovi/laravel-sendy.svg)](https://github.com/micovi/laravel-sendy/)
-[![Packagist](https://img.shields.io/packagist/v/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
 [![Packagist](https://img.shields.io/packagist/vpre/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
 [![Packagist downloads](https://img.shields.io/packagist/dt/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
 
