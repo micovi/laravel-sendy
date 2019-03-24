@@ -1,5 +1,6 @@
 {
   "name": "micovi/laravel-sendy",
+  "version": "0.1.0",
   "description": "Service provider for Sendy API in PHP Laravel 5+",
   "license": "MIT",
   "keywords": [
