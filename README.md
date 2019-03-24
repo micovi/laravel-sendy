@@ -1,9 +1,10 @@
 # Laravel Sendy
 
 [![Build Status](https://travis-ci.org/micovi/laravel-sendy.svg?branch=master)](https://travis-ci.org/micovi/laravel-sendy)
+[![Github](	https://img.shields.io/github/release-pre/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
 [![Packagist](https://img.shields.io/packagist/v/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
-[![Packagist](https://poser.pugx.org/micovi/laravel-sendy/d/total.svg)](https://packagist.org/packages/micovi/laravel-sendy)
-[![Packagist](https://img.shields.io/packagist/l/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
+[![Packagist](https://img.shields.io/packagist/vpre/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
+[![Packagist downloads](https://img.shields.io/packagist/dt/micovi/laravel-sendy.svg)](https://packagist.org/packages/micovi/laravel-sendy)
 
 Package description: Laravel simple integration with Sendy API to subscribe/unsubscribe users to list.
 
