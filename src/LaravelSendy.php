@@ -59,7 +59,8 @@ class LaravelSendy
         $request = array(
             'email' => $email,
             'list' => $listId,
-            'boolean' => 'true'
+            'boolean' => 'true',
+            'api_key' => $this->_getApiKey()
         );
         if (!is_null($name))
             $request['name'] = $name;
@@ -107,7 +108,8 @@ class LaravelSendy
         $request = array(
             'email' => $email,
             'list' => $listId,
-            'boolean' => 'true'
+            'boolean' => 'true',
+            'api_key' => $this->_getApiKey()
         );
 
         $response = $this->_callSendy(self::URI_UNSUBSCRIBE, $request);
