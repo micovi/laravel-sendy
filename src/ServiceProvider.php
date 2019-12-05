@@ -1,6 +1,6 @@
 <?php
 
-namespace Micovi\LaravelSendy;
+namespace sokolnikov911\LaravelSendy;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

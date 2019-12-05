@@ -1,6 +1,6 @@
 <?php
 
-namespace Micovi\LaravelSendy\Facades;
+namespace sokolnikov911\LaravelSendy\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

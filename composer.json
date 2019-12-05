@@ -1,5 +1,5 @@
 {
-  "name": "micovi/laravel-sendy",
+  "name": "sokolnikov911/laravel-sendy",
   "version": "v0.1.0-alpha",
   "description": "Service provider for Sendy API in PHP Laravel 5+",
   "license": "MIT",
@@ -16,7 +16,7 @@
       "role": "Developer"
     }
   ],
-  "homepage": "https://github.com/Micovi/laravel-sendy",
+  "homepage": "https://github.com/sokolnikov911/laravel-sendy",
   "require": {
     "php": ">=7.0",
     "illuminate/support": "^5.4"
@@ -44,7 +44,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Micovi\\LaravelSendy\\ServiceProvider"
+        "sokolnikov911\\LaravelSendy\\ServiceProvider"
       ]
     }
   },

@@ -1,5 +1,5 @@
 <?php
-namespace Micovi\LaravelSendy;
+namespace sokolnikov911\LaravelSendy;
 
 /**
  * PHP interface for Sendy api
